@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="comment_text_size">20.0sp</dimen>
+    <dimen name="live_chat_overlay_comment_text_size">20.0sp</dimen>
+    <dimen name="live_chat_text_message_text_size">20.0sp</dimen>
+
+    <dimen name="abc_text_size_body_1_material">20.0sp</dimen>
+    <dimen name="abc_text_size_body_2_material">20.0sp</dimen>
+    <dimen name="abc_text_size_small_material">20.0sp</dimen>
+</resources>
